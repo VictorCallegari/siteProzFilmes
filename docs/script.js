@@ -23,7 +23,7 @@ form.addEventListener('submit', function (event) {
 });
 
 function showSuccessMessage() {
-    window.location.href = '../home/index.html';
+    window.location.href = './home/index.html';
 }
 
 function showErrorMessage(message) {
